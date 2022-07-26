@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white!important;
+    background: #007bff !important;
+    font-weight: bold !important;
+}
+
+.addNewRecord{
+    background-color: #007bff !important;
+    color: white !important;
+}
+
+.dt-button{
+    padding-top:  5px !important;
+    padding-bottom: 5px !important;
+}
